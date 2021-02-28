@@ -1,2 +1,2 @@
 # flowers
-Landing page for flowers store
+Simple landing page for flowers store. HTML CSS
